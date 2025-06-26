@@ -24,7 +24,7 @@ Welcome to my GitHub project repository, where I have meticulously curated a col
 
 | Project Link | Description |
 |--------------|-------------|
-| [Heart Analysis Prediction ❤️](https://github.com/yourusername/Heart-Analysis-Prediction) | The Heart Analysis Prediction Project applies machine learning techniques to predict the presence of heart disease based on clinical parameters. It showcases the integration of data preprocessing, visualization, and model building using Python. This project demonstrates how data science can contribute meaningfully to healthcare analytics and early diagnosis. <br><br>**Tools Used 🛠️:** <br>Programming Language: Python <br>Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn <br>IDE: Jupyter Notebook |
+| [Heart Analysis Prediction ❤️](https://github.com/rohini-patturaja/Heart-Analysis-Prediction) | The Heart Analysis Prediction Project applies machine learning techniques to predict the presence of heart disease based on clinical parameters. It showcases the integration of data preprocessing, visualization, and model building using Python. This project demonstrates how data science can contribute meaningfully to healthcare analytics and early diagnosis. <br><br>**Tools Used 🛠️:** <br>Programming Language: Python <br>Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn <br>IDE: Jupyter Notebook |
 
 
 ---
