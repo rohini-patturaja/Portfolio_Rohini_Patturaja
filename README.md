@@ -15,7 +15,7 @@ Welcome to my GitHub project repository, where I have meticulously curated a col
 
 | Project Link | Description |
 |--------------|-------------|
-| [8 Week SQL Challenge 🏆](https://github.com/yourusername/8-Week-SQL-Challenge) | "#8WeekSQLChallenge": Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br>• **Tools Used** 🛠️: PostgreSQL |
+| [8 Week SQL Challenge 🏆](https://github.com/rohini-patturaja/8-Week-SQL-Challenge) | "#8WeekSQLChallenge": Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br>• **Tools Used** 🛠️: PostgreSQL |
 
 ---
 
